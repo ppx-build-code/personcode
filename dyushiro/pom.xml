@@ -69,24 +69,30 @@
       <version>3.1.0</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.apache.zookeeper</groupId>
+      <artifactId>zookeeper</artifactId>
+      <version>3.4.6</version>
+    </dependency>
+
 
   </dependencies>
   <build>
     <finalName>dyu-shiro</finalName>
 
 
-    <plugins>
-      <plugin>
-        <groupId>org.eclipse.jetty</groupId>
-        <artifactId>jetty-maven-plugin</artifactId>
-        <version>9.3.11.v20160721</version>
-        <configuration>
-          <webApp>
-            <contextPath>/</contextPath>
-          </webApp>
-        </configuration>
-      </plugin>
-    </plugins>
+    <!--<plugins>-->
+      <!--<plugin>-->
+        <!--<groupId>org.eclipse.jetty</groupId>-->
+        <!--<artifactId>jetty-maven-plugin</artifactId>-->
+        <!--<version>9.3.11.v20160721</version>-->
+        <!--<configuration>-->
+          <!--<webApp>-->
+            <!--<contextPath>/</contextPath>-->
+          <!--</webApp>-->
+        <!--</configuration>-->
+      <!--</plugin>-->
+    <!--</plugins>-->
 
   </build>
 </project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dyushiro:war">
+    <output-path>$PROJECT_DIR$/dyushiro/target</output-path>
+    <root id="archive" name="dyu-shiro.war">
+      <element id="artifact" artifact-name="dyushiro:war exploded" />
+    </root>
+  </artifact>
+</component>
