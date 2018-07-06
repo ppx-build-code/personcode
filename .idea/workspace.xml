@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/config/AuthicationRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/entity/AuthAccessToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/web/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dyushiro/src/main/webapp/WEB-INF/shiro.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dyushiro/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dyushiro/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dyushiro/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dyushiro/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/Config.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -259,6 +249,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,8 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -935,6 +925,7 @@
       <workItem from="1526192926378" duration="605000" />
       <workItem from="1526262954826" duration="24000" />
       <workItem from="1530015699247" duration="3000" />
+      <workItem from="1530064744244" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -954,7 +945,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15408000" />
+    <option name="totallyTimeSpent" value="15508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -989,8 +980,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32959184" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2820513" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2851038" />
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="right" id="SciView" order="11" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -1434,7 +1425,7 @@
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
