@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,11 +172,6 @@
             <path>
               <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="personcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -859,7 +842,7 @@
       <workItem from="1526262954826" duration="24000" />
       <workItem from="1530015699247" duration="3000" />
       <workItem from="1530064744244" duration="100000" />
-      <workItem from="1530873088774" duration="413000" />
+      <workItem from="1530873088774" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -879,7 +862,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15921000" />
+    <option name="totallyTimeSpent" value="16058000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,7 +875,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
@@ -913,7 +895,7 @@
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" weight="0.32820514" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2881563" />
       <window_info anchor="right" id="SciView" order="11" />
       <window_info anchor="right" id="Theme Preview" order="9" />
