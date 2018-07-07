@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/DateFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/MoreExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +28,8 @@
       <file leaf-file-name="IntPred.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -236,87 +228,6 @@
               <item name="personcode" type="462c0819:PsiDirectoryNode" />
               <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu" type="462c0819:PsiDirectoryNode" />
-              <item name="expression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu-lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dyu" type="462c0819:PsiDirectoryNode" />
-              <item name="expression" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -332,11 +243,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1025,7 +936,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22539000" />
+    <option name="totallyTimeSpent" value="22615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1038,7 +949,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
@@ -1058,9 +968,9 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" weight="0.32820514" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2918193" />
       <window_info anchor="right" id="SciView" order="11" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -1305,8 +1215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -1340,7 +1250,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1352,7 +1262,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 2.7 interpreter library</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1401,7 +1311,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:3.8.1</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
