@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="" />
+    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,47 +15,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MoreExpression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/MoreExpression.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntPred.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="DateFormatter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/DateFormatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+            <state relative-caret-position="300">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadLocal.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
+      <file leaf-file-name="Parallel.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-518">
-              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -62,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -88,6 +68,7 @@
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/DateFormatter.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/MoreExpression.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java" />
+        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" />
       </list>
     </option>
   </component>
@@ -213,9 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,10 +206,26 @@
               <item name="personcode" type="462c0819:PsiDirectoryNode" />
               <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -917,6 +911,8 @@
       <workItem from="1530015699247" duration="3000" />
       <workItem from="1530064744244" duration="100000" />
       <workItem from="1530873088774" duration="550000" />
+      <workItem from="1531658589762" duration="1381000" />
+      <workItem from="1531997267332" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -936,7 +932,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22615000" />
+    <option name="totallyTimeSpent" value="24541000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -949,68 +945,45 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.58871794" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32967034" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.2496318" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.32820514" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32959184" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2918193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2954823" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="SciView" order="11" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2496318" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="6" sideWeight="0.5072464" side_tool="true" weight="0.26730487" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info anchor="right" id="SciView" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32959184" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2881563" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Dynamic Properties" order="0" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.2496318" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24969475" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32967034" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="right" id="Properties" order="5" />
-      <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5072464" side_tool="true" weight="0.26730487" />
-      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24969475" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.32820514" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info id="Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
-      <window_info id="Image Layers" order="7" />
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1071,7 +1044,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/DemoApplication.java" />
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/A.java" />
     <entry file="file://$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/demo/DistributedLock.java" />
     <entry file="file://$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/demo/ZookeeperTestDemo.java" />
@@ -1184,25 +1156,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/DateFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/MoreExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1217,6 +1174,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/DateFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1250,7 +1224,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1262,7 +1236,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Python 2.7 interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1311,7 +1285,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
