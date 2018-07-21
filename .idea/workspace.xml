@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/lock/DeadLockDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -28,11 +29,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Parallel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Parallel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadLockDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/lock/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,6 +83,7 @@
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/MoreExpression.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java" />
+        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/lock/DeadLockDemo.java" />
       </list>
     </option>
   </component>
@@ -191,9 +206,11 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,13 +234,38 @@
               <item name="personcode" type="462c0819:PsiDirectoryNode" />
               <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dyu" type="462c0819:PsiDirectoryNode" />
               <item name="expression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="SE.dyu-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dyu" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -255,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoreExpression">
+  <component name="RunManager" selected="Application.DeadLockDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -266,6 +308,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dyu.expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.DeadLockDemo" />
+      <module name="dyu-lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.lock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,6 +336,17 @@
     </configuration>
     <configuration name="MoreExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dyu.expression.MoreExpression" />
+      <module name="dyu-lambda" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Parallel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.expression.Parallel" />
       <module name="dyu-lambda" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -884,9 +948,13 @@
       <item itemvalue="Application.LoginController" />
       <item itemvalue="Application.DateFormatter" />
       <item itemvalue="Application.MoreExpression" />
+      <item itemvalue="Application.Parallel" />
+      <item itemvalue="Application.DeadLockDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.Parallel" />
         <item itemvalue="Application.MoreExpression" />
         <item itemvalue="Application.DateFormatter" />
         <item itemvalue="Application.LoginController" />
@@ -912,7 +980,8 @@
       <workItem from="1530064744244" duration="100000" />
       <workItem from="1530873088774" duration="550000" />
       <workItem from="1531658589762" duration="1381000" />
-      <workItem from="1531997267332" duration="58000" />
+      <workItem from="1531997267332" duration="215000" />
+      <workItem from="1532187484636" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -932,7 +1001,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24541000" />
+    <option name="totallyTimeSpent" value="26233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -948,28 +1017,29 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info id="Image Layers" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32959184" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32967034" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" visible="true" weight="0.32820514" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2954823" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="SciView" order="11" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2496318" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.32820514" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6687179" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" weight="0.32820514" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49275362" visible="true" weight="0.2991453" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" sideWeight="0.5072464" side_tool="true" weight="0.26730487" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -978,7 +1048,6 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Properties" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24969475" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.32820514" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="right" id="Commander" order="2" weight="0.4" />
@@ -1044,8 +1113,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/A.java" />
-    <entry file="file://$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/demo/DistributedLock.java" />
     <entry file="file://$PROJECT_DIR$/dyushiro/src/main/java/com/dyu/shiro/demo/ZookeeperTestDemo.java" />
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/test/Config.java" />
     <entry file="file://$PROJECT_DIR$/dyushiro/src/main/resources/logback.xml" />
@@ -1189,8 +1256,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/Parallel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3885">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/lock/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
