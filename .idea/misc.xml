@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/dyushiro" />
+    <file type="web" url="file://$PROJECT_DIR$/SE.dyu-web" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>
@@ -15,6 +16,7 @@
         <option value="$PROJECT_DIR$/dyushiro/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/SE.dyu-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/SE.dyu-web/pom.xml" />
       </list>
     </option>
   </component>

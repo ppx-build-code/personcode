@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" filepath="$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" filepath="$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" filepath="$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personcode.iml" filepath="$PROJECT_DIR$/.idea/personcode.iml" />
     </modules>
