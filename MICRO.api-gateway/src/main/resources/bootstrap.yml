@@ -1,0 +1,22 @@
+
+server:
+  port: 8080
+spring:
+  application:
+    name: api-gateway
+zuul:
+  ribbon:
+    eager-load:
+      enabled: true
+  routes:
+    micro-dyu-admin: /dyu/admin/**
+    micro-dyu-cms: /dyu/cms/**
+  ignored-services: "*"
+  ignored-patterns: /**/inner/**
+  sensitive-headers: Access-Control-Allow-Origin,Access-Control-Allow-Methods
+ribbon:
+  ConnectionTimeout: 3000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8081/eureka

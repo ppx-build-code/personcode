@@ -17,6 +17,11 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/SE.dyu-webflux/pom.xml" />
         <option value="$PROJECT_DIR$/SE.dyu-web/pom.xml" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-config/pom.xml" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/MICRO.cms-client/pom.xml" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/MICRO.api-gateway/pom.xml" />
       </list>
     </option>
   </component>
