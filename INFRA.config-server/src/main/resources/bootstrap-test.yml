@@ -7,5 +7,5 @@ spring:
           search-paths: repo
       name:
         config-server
-      label: master
+      label: dev
 foo: dyu test config....
