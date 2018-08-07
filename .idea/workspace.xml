@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="创建shiro web工程">
-      <change afterPath="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dyushiro/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -44,69 +42,25 @@
         <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConfigServerApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConfigServerApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/java/com/dyu/ConfigServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap-test.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bootstrap-test.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/filter/LogFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApiGatewayApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/ApiGatewayApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.api-gateway/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ManagerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/web/ManagerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-              </folding>
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -114,10 +68,33 @@
       <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="135">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -142,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/observer/Aliens.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/observer/Nasa.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/observer/Moon.java" />
         <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/template/LoanApplication.java" />
@@ -182,17 +158,18 @@
         <option value="$PROJECT_DIR$/MICRO.cms-client/src/main/java/com/dyu/cms/client/CartoonClientHystrix.java" />
         <option value="$PROJECT_DIR$/MICRO.dyu-cms/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/web/CartoonController.java" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/filter/AccessFilter.java" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/filter/LogFilter.java" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/ApiGatewayApplication.java" />
         <option value="$PROJECT_DIR$/INFRA.config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml" />
         <option value="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/INFRA.config-server/src/main/java/com/dyu/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java" />
       </list>
     </option>
   </component>
@@ -305,6 +282,59 @@
               <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="personcode" type="462c0819:PsiDirectoryNode" />
               <item name="INFRA.config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personcode" type="462c0819:PsiDirectoryNode" />
+              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -1089,7 +1119,7 @@
       <workItem from="1533260921458" duration="8052000" />
       <workItem from="1533283531027" duration="1771000" />
       <workItem from="1533540214159" duration="1242000" />
-      <workItem from="1533622230414" duration="1150000" />
+      <workItem from="1533622230414" duration="2979000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -1105,11 +1135,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522129923978</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed">
+      <created>1533630348063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533630348063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66110000" />
+    <option name="totallyTimeSpent" value="67939000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1199,7 +1236,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建shiro web工程" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建shiro web工程" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state width="287" height="333" key="Git.Branch.Popup" />
@@ -1223,18 +1261,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/web/ManagerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1441,13 +1467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MICRO.cms-client/src/main/java/com/dyu/cms/client/CartoonClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1504,13 +1523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/filter/LogFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1531,9 +1543,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/java/com/dyu/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/web/ManagerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="255">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1557,24 +1584,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml">
+    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/java/com/dyu/ConfigServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>

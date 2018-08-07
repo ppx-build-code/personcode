@@ -3,6 +3,11 @@ server:
 spring:
   application:
     name: micro-dyu-admin
+  cloud:
+    config:
+      label: dev
+      profile: test
+      uri: http://localhost:8888/
 eureka:
   client:
     service-url:
