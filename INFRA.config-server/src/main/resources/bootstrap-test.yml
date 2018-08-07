@@ -4,5 +4,8 @@ spring:
       server:
         git:
           uri: https://github.com/ppx-build-code/personcode.git
+          search-paths: repo
       name:
-        data
+        config-server
+      label: dev
+foo: dyu test config....
