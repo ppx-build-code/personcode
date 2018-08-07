@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" filepath="$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INFRA.config-server/config-server.iml" filepath="$PROJECT_DIR$/INFRA.config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" filepath="$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" filepath="$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" filepath="$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" />
