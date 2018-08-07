@@ -1,6 +1,8 @@
 package com.dyu;
 
+import com.dyu.config.Config;
 import lombok.Data;
+import lombok.NonNull;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,13 +15,5 @@ public class AdminApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AdminApplication.class, args);
-    }
-
-    @Value("${begin}")
-    String test;
-
-    @GetMapping("/test")
-    public String get() {
-        return test;
     }
 }
