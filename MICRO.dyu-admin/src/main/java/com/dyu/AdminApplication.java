@@ -15,11 +15,11 @@ public class AdminApplication {
         SpringApplication.run(AdminApplication.class, args);
     }
 
-    @Value("${foo}")
-    String foo;
+    @Value("${begin}")
+    String test;
 
-    @GetMapping("/foo")
+    @GetMapping("/test")
     public String get() {
-        return foo;
+        return test;
     }
 }

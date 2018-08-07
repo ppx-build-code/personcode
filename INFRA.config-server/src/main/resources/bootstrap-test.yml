@@ -8,4 +8,5 @@ spring:
       name:
         config-server
       label: dev
+      profile: test
 foo: dyu test config....
