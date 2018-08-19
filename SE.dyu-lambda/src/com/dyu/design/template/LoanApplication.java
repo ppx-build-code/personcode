@@ -22,4 +22,8 @@ public abstract class LoanApplication {
         System.out.println("report data review ...");
     }
 
+    public static void main(String[] args) {
+        System.out.println((int)(Math.random()*100));
+    }
+
 }
