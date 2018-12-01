@@ -1,5 +1,6 @@
 package com.dyu.expression;
 
+import java.awt.*;
 import java.util.function.Predicate;
 
 interface IntPred {
@@ -15,5 +16,7 @@ interface IntPred {
         IntPred intPred = x -> {
             return x.test(5);
         };
+
+        System.out.println(6^4);
     }
 }

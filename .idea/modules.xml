@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" filepath="$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" filepath="$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" filepath="$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE.dyu-plugin/dyu-plugin.iml" filepath="$PROJECT_DIR$/SE.dyu-plugin/dyu-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-thread/dyu-thread.iml" filepath="$PROJECT_DIR$/SE.dyu-thread/dyu-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" filepath="$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" filepath="$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" />
