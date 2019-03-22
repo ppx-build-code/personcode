@@ -9,6 +9,7 @@ import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.ServerResponse;
 
 import static org.springframework.web.reactive.function.server.RequestPredicates.GET;
+import static org.springframework.web.reactive.function.server.RequestPredicates.POST;
 import static org.springframework.web.reactive.function.server.RouterFunctions.route;
 
 /**
@@ -23,6 +24,11 @@ public class UserRouter {
 
     @Bean
     public RouterFunction<ServerResponse> link() {
-        return route(GET("/user"), serverRequest -> userHandler.lists(serverRequest));
+        return route(GET("/user.do"), serverRequest -> userHandler.lists(serverRequest));
+    }
+
+    @Bean
+    public RouterFunction<ServerResponse> save() {
+        return route(GET("/user"), serverRequest -> userHandler.save(serverRequest));
     }
 }
