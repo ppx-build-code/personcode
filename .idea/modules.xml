@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SE.dyu-frame/dyu-frame.iml" filepath="$PROJECT_DIR$/SE.dyu-frame/dyu-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" filepath="$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personcode.iml" filepath="$PROJECT_DIR$/.idea/personcode.iml" />
     </modules>
