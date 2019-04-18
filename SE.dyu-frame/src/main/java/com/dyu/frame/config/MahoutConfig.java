@@ -20,14 +20,14 @@ import java.net.URL;
 @Configuration
 public class MahoutConfig {
 
-    @Resource
-    DataSource dataSource;
+    // @Resource
+    // DataSource dataSource;
 
 
-    @Bean("dbDataModel")
-    public DataModel dbDataModel() {
-        return new MySQLJDBCDataModel(dataSource, "rating", "userid", "movieid", "rating", "ratetime");
-    }
+    // @Bean("dbDataModel")
+    // public DataModel dbDataModel() {
+    //     return new MySQLJDBCDataModel(dataSource, "rating", "userid", "movieid", "rating", "ratetime");
+    // }
 
 //    @Bean("fileDataModel")
 //    public DataModel fileDataModel() throws IOException {

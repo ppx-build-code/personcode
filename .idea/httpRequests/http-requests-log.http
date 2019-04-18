@@ -1,0 +1,21 @@
+GET http://127.0.0.1:8888/health
+Accept: application/vnd.spring-boot.actuator.v1+json
+
+<> 2019-04-15T050517.200.txt
+
+###
+
+GET http://127.0.0.1:8888/health
+Accept: application/vnd.spring-boot.actuator.v1+json
+
+<> 2019-04-15T050513.200.txt
+
+###
+
+GET http://127.0.0.1:8888/health.json
+Accept: application/vnd.spring-boot.actuator.v1+json
+
+<> 2019-04-15T050459.200.txt
+
+###
+
