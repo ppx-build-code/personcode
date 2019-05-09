@@ -80,6 +80,12 @@
 			<version>${mahout.version}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-all</artifactId>
+            <version>4.0.24.Final</version>
+        </dependency>
+
 		<!--thymeleaf-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
