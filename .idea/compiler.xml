@@ -2,31 +2,40 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dyu-netty" />
+        <module name="dyu-cms" />
+        <module name="config-server" />
+        <module name="dyu-activiti" />
         <module name="api-gateway" />
         <module name="cms-client" />
-        <module name="config-server" />
+        <module name="dyu-webflux" />
         <module name="dyu-admin" />
-        <module name="dyu-cms" />
         <module name="dyu-config" />
         <module name="dyu-web" />
-        <module name="dyu-webflux" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="api-gateway" target="1.8" />
       <module name="cms-client" target="1.8" />
       <module name="config-server" target="1.8" />
-      <module name="demo" target="1.8" />
+      <module name="dyu-activiti" target="1.8" />
       <module name="dyu-admin" target="1.8" />
       <module name="dyu-cms" target="1.8" />
       <module name="dyu-config" target="1.8" />
+      <module name="dyu-netty" target="1.5" />
       <module name="dyu-web" target="1.8" />
       <module name="dyu-webflux" target="1.8" />
-      <module name="dyushiro" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dyu-activiti" options="-parameters" />
+      <module name="dyu-webflux" options="-parameters" />
+    </option>
   </component>
 </project>

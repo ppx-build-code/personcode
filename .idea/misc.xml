@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" />
         <option value="$PROJECT_DIR$/MICRO.api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/INFRA.config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/SE.dyu-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/ACT.dyu-activiti/pom.xml" />
       </list>
     </option>
   </component>

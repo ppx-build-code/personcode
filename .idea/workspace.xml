@@ -2,24 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/FairAndUnfairLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/RWLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/ReentrantReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TestTwinsLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TwinsLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/config/SimpleProcessRuntimeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/config/SimpleTaskRuntimeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/entity/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/service/ProcessRuntimeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/service/TaskRuntimeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/java/com/dyu/activiti/util/SecurityUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACT.dyu-activiti/src/main/resources/processes/categorize-human-content.bpmn20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/context/ITradeAnalysisListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/context/SimpleTradeAnalysisListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/context/TradeAnalysisEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/context/TradeAnalysisListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/domain/dto/QQMessageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/group/GroupMaxValueCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/handler/HttpHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/server/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/pool/ThreadPoolPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dyu_web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dyu_web_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dyu_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dyu_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-cms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-cms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/CmsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/CmsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/web/CartoonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/java/com/dyu/web/CartoonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MICRO.dyu-cms/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/pool/DefaultThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/pool/DefaultThreadPool.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/dyushiro/target/" />
-    <ignored path="$PROJECT_DIR$/demo/target/" />
-    <ignored path="$PROJECT_DIR$/SE.dyu-webflux/target/" />
-    <ignored path="$PROJECT_DIR$/SE.dyu-web/target/" />
-    <ignored path="$PROJECT_DIR$/MICRO.dyu-config/target/" />
-    <ignored path="$PROJECT_DIR$/MICRO.dyu-cms/target/" />
-    <ignored path="$PROJECT_DIR$/MICRO.cms-client/target/" />
-    <ignored path="$PROJECT_DIR$/MICRO.dyu-admin/target/" />
-    <ignored path="$PROJECT_DIR$/MICRO.api-gateway/target/" />
-    <ignored path="$PROJECT_DIR$/INFRA.config-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,136 +71,26 @@
       <FILTER>com.dyu.design.optimization.*</FILTER>
     </SUITE>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2039040498">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="4" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="28" />
-          <entry key="html" value="1" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="77" />
-          <entry key="jpg" value="2" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="28" />
-          <entry key="HTML" value="1" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="77" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="html" value="156" />
-          <entry key="java" value="17252" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="HTML" value="156" />
-          <entry key="JAVA" value="17252" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="personcode" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.14.RELEASE/spring-aop-4.3.14.RELEASE.jar!/org/springframework/aop/framework/ProxyConfig.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.RELEASE/spring-aop-4.3.18.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactoryBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1550">
-              <caret line="622" column="64" selection-start-line="622" selection-start-column="43" selection-end-line="622" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SE.dyu-web/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SE.dyu-webflux/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MICRO.dyu-cms/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.18.RELEASE/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/FactoryBean.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -178,78 +108,17 @@
       <find>NameChecker</find>
       <find>condition</find>
       <find>unlock</find>
-      <find>refresh</find>
       <find>loadBeanDefinitions</find>
       <find>process</find>
       <find>processBeanDefinitionEle</find>
       <find>parseBeandefinitionEle</find>
+      <find>getParentBeanFactory</find>
+      <find>refresh</find>
+      <find>refreshBeanFactory</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/MICRO.api-gateway/src/main/java/com/dyu/ApiGatewayApplication.java" />
-        <option value="$PROJECT_DIR$/INFRA.config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/INFRA.config-server/src/main/java/com/dyu/ConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/pom.xml" />
-        <option value="$PROJECT_DIR$/repo/admin-test.yml" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/INFRA.config-server/src/main/resources/bootstrap-test.yml" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/web/ManagerController.java" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/AdminApplication.java" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-admin/src/main/java/com/dyu/config/Config.java" />
-        <option value="$PROJECT_DIR$/repo/micro-dyu-admin-test.yml" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/leetcode/HappyNumber.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/leetcode/AddForNumber.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/leetcode/BinaryTreeEach.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/template/LoanApplication.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-webflux/src/main/java/com/dyu/DyuWebfluxApplication.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/concurrent/Latch.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/concurrent/SimpleHttpServer.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/Proxy.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/Proxy.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/Target.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/TargetImpl.java" />
-        <option value="$PROJECT_DIR$/MICRO.dyu-config/src/main/java/com/dyu/ConfigApplication.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/Temp.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/optimization/TestByte.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/ProxyHandler.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/design/proxy/CglibProxyHandler.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/io/SimpleBuffer.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/Interrupt.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/Deprecated.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/Shutdown.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/WaitNotify.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/Piped.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/Profiler.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/status/ConnectionPool.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/pool/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/pool/DefaultThreadPool.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/web/index.html" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/web/SimpleHttpServer.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-lambda/src/com/dyu/expression/IntPred.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-plugin/src/com/dyu/process/process.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-plugin/src/com/dyu/process/NameCheckScanner.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-plugin/src/com/dyu/process/NameChecker.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-plugin/src/com/dyu/process/NameCheckProcessor.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-plugin/src/com/dyu/process/BADLY_NAMED_CODE.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TestTwinsLock.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TwinsLock.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/ReentrantReadWriteLock.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/RWLock.java" />
-        <option value="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/FairAndUnfairLock.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -271,17 +140,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="config-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
@@ -289,60 +147,9 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="MICRO.dyu-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="MICRO.dyu-cms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personcode" type="462c0819:PsiDirectoryNode" />
-              <item name="SE.dyu-webflux" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1P5Plkapw3eQ8mUPiHlHjiGUeqV" />
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
@@ -354,18 +161,23 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553009493316" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559810474429" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ACT.dyu-activiti/src/main/resources/processes" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dyu.cms" />
     </key>
@@ -389,48 +201,22 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.21614906" />
   </component>
-  <component name="RunManager" selected="Application.FairAndUnfairLock">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.ThreadPoolPerformance">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FairAndUnfairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.FairAndUnfairLock" />
-      <module name="dyu-thread" />
+    <configuration name="Config" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.config.Config" />
+      <module name="dyu-admin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.lock.*" />
+          <option name="PATTERN" value="com.dyu.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -438,13 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RWLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.RWLock" />
+    <configuration name="DefaultThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.pool.DefaultThreadPool" />
       <module name="dyu-thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.lock.*" />
+          <option name="PATTERN" value="com.dyu.pool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,13 +238,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantReadWriteLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.ReentrantReadWriteLock" />
-      <module name="dyu-thread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="HttpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.server.HttpServer" />
+      <module name="dyu-netty" />
+      <option name="PROGRAM_PARAMETERS" value="8080" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.lock.*" />
+          <option name="PATTERN" value="com.dyu.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -466,13 +252,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTwinsLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.TestTwinsLock" />
+    <configuration name="ThreadPoolPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.pool.ThreadPoolPerformance" />
       <module name="dyu-thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.lock.*" />
+          <option name="PATTERN" value="com.dyu.pool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,13 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwinsLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.lock.TwinsLock" />
-      <module name="dyu-thread" />
+    <configuration name="TradeAnalysisListeners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.context.TradeAnalysisListeners" />
+      <module name="dyu-admin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.lock.*" />
+          <option name="PATTERN" value="com.dyu.context.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -506,6 +292,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
@@ -518,6 +305,7 @@
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <properties />
@@ -536,6 +324,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -632,6 +421,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DyuActivitiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.activiti.DyuActivitiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DyuWebfluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dyu-webflux" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.DyuWebfluxApplication" />
@@ -646,7 +442,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -660,11 +457,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_personcode" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="61689" />
       </RunnerSettings>
@@ -722,11 +519,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_personcode_2" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="62708" />
       </RunnerSettings>
@@ -800,8 +597,8 @@
           <host-id />
         </data>
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="62707" />
         <option name="LOCAL" value="false" />
@@ -816,11 +613,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_personcode_2" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="62708" />
       </RunnerSettings>
@@ -876,16 +673,16 @@
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
@@ -895,6 +692,10 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.DefaultThreadPool" />
+      <item itemvalue="Application.HttpServer" />
+      <item itemvalue="Application.Config" />
+      <item itemvalue="Application.TradeAnalysisListeners" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.CmsApplication" />
       <item itemvalue="Spring Boot.DyuWebfluxApplication" />
@@ -903,20 +704,17 @@
       <item itemvalue="Spring Boot.CmsClientApplication" />
       <item itemvalue="Spring Boot.AdminApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.DyuActivitiApplication" />
       <item itemvalue="Tomcat Server.shiro" />
-      <item itemvalue="Application.TestTwinsLock" />
-      <item itemvalue="Application.TwinsLock" />
-      <item itemvalue="Application.ReentrantReadWriteLock" />
-      <item itemvalue="Application.RWLock" />
-      <item itemvalue="Application.FairAndUnfairLock" />
+      <item itemvalue="Application.ThreadPoolPerformance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FairAndUnfairLock" />
-        <item itemvalue="Application.RWLock" />
-        <item itemvalue="Application.ReentrantReadWriteLock" />
-        <item itemvalue="Application.TwinsLock" />
-        <item itemvalue="Application.TestTwinsLock" />
+        <item itemvalue="Application.ThreadPoolPerformance" />
+        <item itemvalue="Application.TradeAnalysisListeners" />
+        <item itemvalue="Application.Config" />
+        <item itemvalue="Application.HttpServer" />
+        <item itemvalue="Application.DefaultThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -991,6 +789,33 @@
       <workItem from="1548081446469" duration="78000" />
       <workItem from="1553007557868" duration="1270000" />
       <workItem from="1553271409517" duration="341000" />
+      <workItem from="1553438239026" duration="844000" />
+      <workItem from="1553613812183" duration="2894000" />
+      <workItem from="1553963868415" duration="30000" />
+      <workItem from="1555427137579" duration="2170000" />
+      <workItem from="1556029701495" duration="60000" />
+      <workItem from="1556367456771" duration="1056000" />
+      <workItem from="1556770197293" duration="1832000" />
+      <workItem from="1556887218270" duration="272000" />
+      <workItem from="1556887552663" duration="5766000" />
+      <workItem from="1557036854670" duration="83000" />
+      <workItem from="1557036960975" duration="1000" />
+      <workItem from="1559791213397" duration="1808000" />
+      <workItem from="1559801914024" duration="8072000" />
+      <workItem from="1561985051093" duration="1813000" />
+      <workItem from="1562033284277" duration="34000" />
+      <workItem from="1563763349727" duration="3959000" />
+      <workItem from="1563788289934" duration="2236000" />
+      <workItem from="1563847764556" duration="530000" />
+      <workItem from="1565161139671" duration="694000" />
+      <workItem from="1565179851302" duration="2845000" />
+      <workItem from="1565229528914" duration="957000" />
+      <workItem from="1565364321367" duration="2418000" />
+      <workItem from="1565421538305" duration="106000" />
+      <workItem from="1566545795451" duration="345000" />
+      <workItem from="1574161980492" duration="3594000" />
+      <workItem from="1574174250887" duration="10000" />
+      <workItem from="1574995554376" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -1062,9 +887,6 @@
       <configuration name="Latch.together" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168241000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -1073,96 +895,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49183673" visible="true" weight="0.33943835" />
-      <window_info id="Structure" order="1" sideWeight="0.5081633" side_tool="true" weight="0.31318682" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5089723" side_tool="true" weight="0.31318682" />
-      <window_info id="Image Layers" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.327551" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.327551" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.32959184" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6683673" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" weight="0.37448978" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32923076" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" weight="0.32923076" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.32834226" />
-      <window_info anchor="right" id="Dynamic Properties" order="0" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24969475" />
-      <window_info anchor="right" id="Key Promoter X" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32967034" />
-      <window_info anchor="right" id="Properties" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Palette" order="11" />
-      <window_info anchor="right" id="SciView" order="12" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" weight="0.32967034" />
-      <window_info anchor="right" id="Bean Validation" order="14" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49183673" visible="true" weight="0.33943835" />
-      <window_info id="Structure" order="1" sideWeight="0.5081633" side_tool="true" weight="0.31318682" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5089723" side_tool="true" weight="0.31318682" />
-      <window_info id="Image Layers" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4970545" weight="0.327551" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.327551" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.32959184" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49410897" weight="0.32857144" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.505891" side_tool="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.6683673" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4970545" weight="0.37448978" />
-      <window_info anchor="bottom" id="Application Servers" order="11" weight="0.32923076" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Spring" order="13" weight="0.32923076" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.32834226" />
-      <window_info anchor="right" id="Dynamic Properties" order="0" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.24969475" />
-      <window_info anchor="right" id="Key Promoter X" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32967034" />
-      <window_info anchor="right" id="Properties" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Palette" order="11" />
-      <window_info anchor="right" id="SciView" order="12" />
-      <window_info anchor="right" id="Coverage" order="13" side_tool="true" weight="0.32967034" />
-      <window_info anchor="right" id="Bean Validation" order="14" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1173,28 +905,26 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建shiro web工程" />
@@ -1211,14 +941,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/DemoApplication.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java</url>
-          <line>392</line>
-          <properties />
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1226,371 +949,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/javax/lang/model/element/Modifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/EnumSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="257" column="32" selection-start-line="257" selection-start-column="32" selection-end-line="257" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/javax/lang/model/util/ElementScanner6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TestTwinsLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3792">
-          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/TwinsLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="715" column="23" selection-start-line="715" selection-start-column="23" selection-end-line="715" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
-          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/RWLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9780">
-          <caret line="707" selection-start-line="707" selection-end-line="707" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13155">
-          <caret line="942" column="21" selection-start-line="942" selection-start-column="21" selection-end-line="942" selection-end-column="21" />
-          <folding>
-            <element signature="e#7757#7758#0" expanded="true" />
-            <element signature="e#7784#7785#0" expanded="true" />
-            <element signature="e#35675#35676#0" expanded="true" />
-            <element signature="e#35714#35715#0" expanded="true" />
-            <element signature="e#43413#43414#0" expanded="true" />
-            <element signature="e#43452#43453#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4515">
-          <caret line="334" column="13" selection-start-line="334" selection-start-column="13" selection-end-line="334" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8430">
-          <caret line="605" column="49" selection-start-line="605" selection-start-column="36" selection-end-line="605" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/lock/FairAndUnfairLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/LockSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="171" column="23" selection-start-line="171" selection-start-column="23" selection-end-line="171" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="366" column="7" lean-forward="true" selection-start-line="366" selection-start-column="7" selection-end-line="366" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.14.RELEASE/spring-beans-4.3.14.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="118" column="45" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="52" column="11" lean-forward="true" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="3366" column="13" selection-start-line="3366" selection-start-column="13" selection-end-line="3366" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/config/BeanDefinitionHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2195">
-          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="302" column="24" selection-start-line="302" selection-start-column="24" selection-end-line="302" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/parsing/ProblemReporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionDocumentReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="298" column="71" selection-start-line="298" selection-start-column="71" selection-end-line="298" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/BeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="75" column="62" lean-forward="true" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="180" column="31" selection-start-line="180" selection-start-column="31" selection-end-line="180" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/parsing/ReaderContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="109" column="11" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/parsing/FailFastProblemReporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="507" column="35" selection-start-line="507" selection-start-column="35" selection-end-line="507" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar!/org/springframework/aop/framework/ProxyFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.RELEASE/spring-aop-4.3.18.RELEASE.jar!/org/springframework/aop/framework/ProxyFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.14.RELEASE/spring-aop-4.3.14.RELEASE.jar!/org/springframework/aop/framework/ProxyConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.18.RELEASE/spring-beans-4.3.18.RELEASE.jar!/org/springframework/beans/factory/FactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.18.RELEASE/spring-aop-4.3.18.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1550">
-          <caret line="622" column="64" selection-start-line="622" selection-start-column="43" selection-end-line="622" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-webflux/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MICRO.dyu-admin/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MICRO.dyu-cms/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SE.dyu-web/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1657,7 +1015,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dyu-plugin</last-edited>
+          <last-edited>dyu-netty</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

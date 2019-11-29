@@ -122,4 +122,8 @@ public class DefaultThreadPool<Job extends Runnable> implements ThreadPool<Job> 
             running = false;
         }
     }
+
+    public static void main(String[] args) {
+        System.out.println(Runtime.getRuntime().availableProcessors());
+    }
 }
