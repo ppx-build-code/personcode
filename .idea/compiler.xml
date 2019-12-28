@@ -8,14 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dyu-netty" />
-        <module name="dyu-cms" />
         <module name="config-server" />
         <module name="dyu-activiti" />
         <module name="api-gateway" />
         <module name="cms-client" />
-        <module name="dyu-webflux" />
-        <module name="dyu-admin" />
+        <module name="dyu-cms" />
         <module name="dyu-config" />
+        <module name="dyu-admin" />
+        <module name="dyu-webflux" />
         <module name="dyu-web" />
       </profile>
     </annotationProcessing>
@@ -30,6 +30,8 @@
       <module name="dyu-netty" target="1.5" />
       <module name="dyu-web" target="1.8" />
       <module name="dyu-webflux" target="1.8" />
+      <module name="yqn.main" target="1.8" />
+      <module name="yqn.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

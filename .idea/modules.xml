@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" filepath="$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dyu.yqn.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dyu.yqn.iml" />
       <module fileurl="file://$PROJECT_DIR$/INFRA.config-server/config-server.iml" filepath="$PROJECT_DIR$/INFRA.config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ACT.dyu-activiti/dyu-activiti.iml" filepath="$PROJECT_DIR$/ACT.dyu-activiti/dyu-activiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" filepath="$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" />
@@ -16,6 +17,9 @@
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" filepath="$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" filepath="$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personcode.iml" filepath="$PROJECT_DIR$/.idea/personcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.test.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.test.iml" />
     </modules>
   </component>
 </project>
