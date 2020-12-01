@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/dyushiro" />
     <file type="web" url="file://$PROJECT_DIR$/SE.dyu-web" />
+    <file type="web" url="file://$PROJECT_DIR$/SE.dyu-yqn" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>false</service-enabled>

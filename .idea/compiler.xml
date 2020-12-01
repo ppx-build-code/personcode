@@ -7,21 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dyu-netty" />
-        <module name="config-server" />
-        <module name="dyu-activiti" />
-        <module name="api-gateway" />
-        <module name="cms-client" />
-        <module name="dyu-cms" />
-        <module name="dyu-config" />
         <module name="dyu-admin" />
-        <module name="dyu-webflux" />
+        <module name="config-server" />
+        <module name="cms-client" />
+        <module name="dyu-config" />
         <module name="dyu-web" />
+        <module name="api-gateway" />
+        <module name="dyu-webflux" />
+        <module name="dyu-cms" />
+        <module name="dyu-activiti" />
+        <module name="dyu-netty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="api-gateway" target="1.8" />
+      <module name="basic.mp.main" target="1.8" />
+      <module name="basic.mp.test" target="1.8" />
       <module name="cms-client" target="1.8" />
+      <module name="com.frame.dyu.basic.mp.main" target="1.8" />
+      <module name="com.frame.dyu.basic.mp.test" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="dyu-activiti" target="1.8" />
       <module name="dyu-admin" target="1.8" />
