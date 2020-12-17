@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="dyu-admin" />
         <module name="config-server" />
+        <module name="SE.dyu-disruptor" />
         <module name="cms-client" />
         <module name="dyu-config" />
         <module name="dyu-web" />
@@ -34,6 +35,7 @@
       <module name="dyu-netty" target="1.5" />
       <module name="dyu-web" target="1.8" />
       <module name="dyu-webflux" target="1.8" />
+      <module name="SE.dyu-disruptor" target="1.5" />
       <module name="yqn.main" target="1.8" />
       <module name="yqn.test" target="1.8" />
     </bytecodeTargetLevel>

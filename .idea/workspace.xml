@@ -5,33 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/src/main/java/com/mp/MpApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/src/main/java/com/mp/domain/dao/AdminDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FRAME.basic-mp/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/pipeline/PipelineTransportDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/daemon/ServiceThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/ab/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/ab/FruitFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/ab/FruitSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/dynamic_bind/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/dynamic_bind/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/dynamic_bind/InterfaceOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/dynamic_bind/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/SE.dyu-disruptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillEventProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecondSkillEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/test/java/com/dyu/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/bytebuf/ByteBufDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/write_flush/WriteAndFlushDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/segment/ContainerCargoSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/segment/ContainerCargoSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/pipeline/PipelineTransportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/pipeline/PipelineTransportDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +201,7 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -237,20 +226,34 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PipelineTransportDemo">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.ab.Fruit" />
-      <module name="yqn.main" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.App" />
+      <module name="SE.dyu-disruptor" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.ab.*" />
+          <option name="PATTERN" value="com.dyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteBufDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.bytebuf.ByteBufDemo" />
+      <module name="dyu-netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.bytebuf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,13 +289,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.dynamic_bind.Test" />
-      <module name="yqn.main" />
+    <configuration name="WriteAndFlushDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.write_flush.WriteAndFlushDemo" />
+      <module name="dyu-netty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.dynamic_bind.*" />
+          <option name="PATTERN" value="com.dyu.write_flush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,25 +336,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="FRAME.basic-mp [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/FRAME.basic-mp" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -739,10 +723,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Fruit" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.ServiceThread" />
-      <item itemvalue="Gradle.FRAME.basic-mp [build]" />
+      <item itemvalue="Application.PipelineTransportDemo" />
+      <item itemvalue="Application.WriteAndFlushDemo" />
+      <item itemvalue="Application.ByteBufDemo" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.CmsApplication" />
       <item itemvalue="Spring Boot.DyuWebfluxApplication" />
@@ -754,15 +738,15 @@
       <item itemvalue="Spring Boot.DyuActivitiApplication" />
       <item itemvalue="Spring Boot.MpApplication" />
       <item itemvalue="Tomcat Server.shiro" />
-      <item itemvalue="Application.PipelineTransportDemo" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ByteBufDemo" />
+        <item itemvalue="Application.WriteAndFlushDemo" />
         <item itemvalue="Application.PipelineTransportDemo" />
         <item itemvalue="Application.ServiceThread" />
-        <item itemvalue="Gradle.FRAME.basic-mp [build]" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Fruit" />
       </list>
     </recent_temporary>
   </component>
@@ -876,7 +860,10 @@
       <workItem from="1590902969453" duration="5275000" />
       <workItem from="1593611306891" duration="912000" />
       <workItem from="1593656003266" duration="34000" />
-      <workItem from="1606807149189" duration="1241000" />
+      <workItem from="1606807149189" duration="1479000" />
+      <workItem from="1607512104036" duration="4620000" />
+      <workItem from="1608082505090" duration="293000" />
+      <workItem from="1608219109817" duration="1497000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -913,7 +900,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533632489177</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed">
+      <created>1606808492887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606808492887</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -993,28 +987,64 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1606807770776">
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1608220643701">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606807770776" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1608220643701" />
+    <state x="268" y="380" key="#xdebugger.evaluate" timestamp="1607519124216">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="268" y="380" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1607519124216" />
+    <state x="368" y="102" key="CommitChangelistDialog2" timestamp="1606808492630">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="368" y="102" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1606808492630" />
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1607519042202">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607519042202" />
     <state width="287" height="333" key="Git.Branch.Popup" timestamp="1606807389488" />
     <state width="287" height="333" key="Git.Branch.Popup/0.0.1680.1050/-1920.0.1920.1080" timestamp="1606807389488" />
-    <state width="1638" height="407" key="GridCell.Tab.0.bottom" timestamp="1606808291422">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608220669442">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="407" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606808291422" />
-    <state width="1638" height="407" key="GridCell.Tab.0.center" timestamp="1606808291421">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669442" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608220669441">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="407" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606808291421" />
-    <state width="1638" height="407" key="GridCell.Tab.0.left" timestamp="1606808291421">
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669441" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608220669440">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="407" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606808291421" />
-    <state width="1638" height="407" key="GridCell.Tab.0.right" timestamp="1606808291422">
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669440" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608220669441">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="407" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606808291422" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669441" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1607524948441">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948441" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1607524948439">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948439" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1607524948438">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948438" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1607524948440">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948440" />
+    <state x="416" y="74" key="new project wizard" timestamp="1608219321106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="416" y="74" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1608219321106" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1608219554861">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608219554861" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

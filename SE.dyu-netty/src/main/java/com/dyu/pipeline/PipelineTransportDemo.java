@@ -5,6 +5,7 @@ import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
+import io.netty.handler.codec.FixedLengthFrameDecoder;
 
 /**
  * @author dyu 2020/12/1 15:20
@@ -21,6 +22,7 @@ public class PipelineTransportDemo {
 
             protected void initChannel(SocketChannel socketChannel) throws Exception {
                 socketChannel.pipeline()
+                        .addLast(new FixedLengthFrameDecoder(10))
                         .addLast(new SimpleInboundHandler("SimpleInboundHandler A", false))
                         .addLast(new SimpleInboundHandler("SimpleInboundHandler B", false))
                         .addLast(new SimpleInboundHandler("SimpleInboundHandler C", true));

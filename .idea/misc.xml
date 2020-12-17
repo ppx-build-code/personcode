@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/INFRA.config-server/pom.xml" />
         <option value="$PROJECT_DIR$/SE.dyu-netty/pom.xml" />
         <option value="$PROJECT_DIR$/ACT.dyu-activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/SE.dyu-disruptor/pom.xml" />
       </list>
     </option>
   </component>
