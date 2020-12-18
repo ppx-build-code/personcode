@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/SE.dyu-disruptor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillEventProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecSkillFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/main/java/com/dyu/demo/SecondSkillEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-disruptor/src/test/java/com/dyu/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/bytebuf/ByteBufDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/write_flush/WriteAndFlushDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/pipeline/PipelineTransportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/pipeline/PipelineTransportDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,58 +49,20 @@
         <task path="$PROJECT_DIR$/FRAME.basic-mp">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/SE.dyu-yqn">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="basic.mp" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name="SE.dyu-yqn" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="SE.dyu-yqn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
             </expand>
             <select />
@@ -727,6 +675,7 @@
       <item itemvalue="Application.PipelineTransportDemo" />
       <item itemvalue="Application.WriteAndFlushDemo" />
       <item itemvalue="Application.ByteBufDemo" />
+      <item itemvalue="Application.App" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.CmsApplication" />
       <item itemvalue="Spring Boot.DyuWebfluxApplication" />
@@ -738,7 +687,6 @@
       <item itemvalue="Spring Boot.DyuActivitiApplication" />
       <item itemvalue="Spring Boot.MpApplication" />
       <item itemvalue="Tomcat Server.shiro" />
-      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
@@ -863,7 +811,8 @@
       <workItem from="1606807149189" duration="1479000" />
       <workItem from="1607512104036" duration="4620000" />
       <workItem from="1608082505090" duration="293000" />
-      <workItem from="1608219109817" duration="1497000" />
+      <workItem from="1608219109817" duration="1711000" />
+      <workItem from="1608269802187" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -1005,22 +954,22 @@
     <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607519042202" />
     <state width="287" height="333" key="Git.Branch.Popup" timestamp="1606807389488" />
     <state width="287" height="333" key="Git.Branch.Popup/0.0.1680.1050/-1920.0.1920.1080" timestamp="1606807389488" />
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608220669442">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608220951430">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669442" />
-    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608220669441">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608220951429">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669441" />
-    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608220669440">
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608220951429">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669440" />
-    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608220669441">
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608220951430">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608220669441" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
     <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1607524948441">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
