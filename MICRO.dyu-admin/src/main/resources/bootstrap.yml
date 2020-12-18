@@ -1,0 +1,17 @@
+server:
+  port: 10002
+spring:
+  application:
+    name: micro-dyu-admin
+  cloud:
+    config:
+      label: dev
+      profile: test
+      uri: http://localhost:8888/
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8081/eureka
+feign:
+  hystrix:
+    enabled: true

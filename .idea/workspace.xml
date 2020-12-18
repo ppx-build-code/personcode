@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/personcode$TestByte.ic" NAME="TestByte Coverage Results" MODIFIED="1536597256893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.dyu.design.optimization.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/FRAME.basic-mp">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SE.dyu-yqn">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/FRAME.basic-mp">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/SE.dyu-yqn">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SE.dyu-yqn" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SE.dyu-yqn" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Path(</find>
+      <find>Proxy</find>
+      <find>NameChecker</find>
+      <find>condition</find>
+      <find>unlock</find>
+      <find>loadBeanDefinitions</find>
+      <find>process</find>
+      <find>processBeanDefinitionEle</find>
+      <find>parseBeandefinitionEle</find>
+      <find>getParentBeanFactory</find>
+      <find>refresh</find>
+      <find>refreshBeanFactory</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1P5Plkapw3eQ8mUPiHlHjiGUeqV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559810474429" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ACT.dyu-activiti/src/main/resources/processes" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dyu.cms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SE.dyu-thread/src/com/dyu/web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.App" />
+      <module name="SE.dyu-disruptor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteBufDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.bytebuf.ByteBufDemo" />
+      <module name="dyu-netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.bytebuf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PipelineTransportDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.pipeline.PipelineTransportDemo" />
+      <module name="dyu-netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.pipeline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.daemon.ServiceThread" />
+      <module name="dyu-thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.daemon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteAndFlushDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.write_flush.WriteAndFlushDemo" />
+      <module name="dyu-netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.write_flush.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="personcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.ApiGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.CmsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.cms.CmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DyuActivitiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-activiti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.activiti.DyuActivitiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DyuWebfluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.DyuWebfluxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="basic.mp.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mp.MpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dyu-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dyu.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.0.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_personcode" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61689" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_personcode_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62708" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62707" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shiro" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.47" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_personcode_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62708" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="dyushiro:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServiceThread" />
+      <item itemvalue="Application.PipelineTransportDemo" />
+      <item itemvalue="Application.WriteAndFlushDemo" />
+      <item itemvalue="Application.ByteBufDemo" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.DyuWebfluxApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.CmsClientApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.DyuActivitiApplication" />
+      <item itemvalue="Spring Boot.MpApplication" />
+      <item itemvalue="Tomcat Server.shiro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ByteBufDemo" />
+        <item itemvalue="Application.WriteAndFlushDemo" />
+        <item itemvalue="Application.PipelineTransportDemo" />
+        <item itemvalue="Application.ServiceThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="" />
+      <created>1522119653743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522119653743</updated>
+      <workItem from="1522119655793" duration="12836000" />
+      <workItem from="1522203101811" duration="82000" />
+      <workItem from="1526057029975" duration="1858000" />
+      <workItem from="1526192926378" duration="605000" />
+      <workItem from="1526262954826" duration="24000" />
+      <workItem from="1530015699247" duration="3000" />
+      <workItem from="1530064744244" duration="100000" />
+      <workItem from="1530873088774" duration="550000" />
+      <workItem from="1531658589762" duration="1381000" />
+      <workItem from="1531997267332" duration="215000" />
+      <workItem from="1532187484636" duration="1671000" />
+      <workItem from="1532253173952" duration="5621000" />
+      <workItem from="1532335960043" duration="1311000" />
+      <workItem from="1532337477780" duration="6180000" />
+      <workItem from="1532488545797" duration="633000" />
+      <workItem from="1532498524059" duration="46000" />
+      <workItem from="1533113900320" duration="8937000" />
+      <workItem from="1533174958571" duration="567000" />
+      <workItem from="1533178854856" duration="4231000" />
+      <workItem from="1533260921458" duration="8052000" />
+      <workItem from="1533283531027" duration="1771000" />
+      <workItem from="1533540214159" duration="1242000" />
+      <workItem from="1533622230414" duration="5097000" />
+      <workItem from="1533714833782" duration="240000" />
+      <workItem from="1533866109484" duration="19281000" />
+      <workItem from="1534000508953" duration="155000" />
+      <workItem from="1534328457130" duration="177000" />
+      <workItem from="1534491371121" duration="103000" />
+      <workItem from="1534555218846" duration="334000" />
+      <workItem from="1534682044886" duration="810000" />
+      <workItem from="1534732313200" duration="567000" />
+      <workItem from="1535203706032" duration="623000" />
+      <workItem from="1535334899892" duration="22000" />
+      <workItem from="1536386873135" duration="4027000" />
+      <workItem from="1536471945372" duration="6045000" />
+      <workItem from="1536543507905" duration="30000" />
+      <workItem from="1536588539781" duration="602000" />
+      <workItem from="1536597132762" duration="645000" />
+      <workItem from="1536629971729" duration="49000" />
+      <workItem from="1536764268712" duration="3236000" />
+      <workItem from="1536803060169" duration="139000" />
+      <workItem from="1539755389701" duration="22000" />
+      <workItem from="1539755418022" duration="3001000" />
+      <workItem from="1540451091686" duration="6613000" />
+      <workItem from="1540623484156" duration="6872000" />
+      <workItem from="1540734306821" duration="6745000" />
+      <workItem from="1540798304259" duration="77000" />
+      <workItem from="1541243169577" duration="307000" />
+      <workItem from="1541343523526" duration="276000" />
+      <workItem from="1541383618803" duration="20000" />
+      <workItem from="1543668140637" duration="8856000" />
+      <workItem from="1543735391413" duration="5162000" />
+      <workItem from="1544017619553" duration="2327000" />
+      <workItem from="1544106133125" duration="21000" />
+      <workItem from="1544542674742" duration="398000" />
+      <workItem from="1544860540086" duration="12752000" />
+      <workItem from="1545320118938" duration="299000" />
+      <workItem from="1547903421874" duration="5662000" />
+      <workItem from="1548081446469" duration="78000" />
+      <workItem from="1553007557868" duration="1270000" />
+      <workItem from="1553271409517" duration="341000" />
+      <workItem from="1553438239026" duration="844000" />
+      <workItem from="1553613812183" duration="2894000" />
+      <workItem from="1553963868415" duration="30000" />
+      <workItem from="1555427137579" duration="2170000" />
+      <workItem from="1556029701495" duration="60000" />
+      <workItem from="1556367456771" duration="1056000" />
+      <workItem from="1556770197293" duration="1832000" />
+      <workItem from="1556887218270" duration="272000" />
+      <workItem from="1556887552663" duration="5766000" />
+      <workItem from="1557036854670" duration="83000" />
+      <workItem from="1557036960975" duration="1000" />
+      <workItem from="1559791213397" duration="1808000" />
+      <workItem from="1559801914024" duration="8072000" />
+      <workItem from="1561985051093" duration="1813000" />
+      <workItem from="1562033284277" duration="34000" />
+      <workItem from="1563763349727" duration="3959000" />
+      <workItem from="1563788289934" duration="2236000" />
+      <workItem from="1563847764556" duration="530000" />
+      <workItem from="1565161139671" duration="694000" />
+      <workItem from="1565179851302" duration="2845000" />
+      <workItem from="1565229528914" duration="957000" />
+      <workItem from="1565364321367" duration="2418000" />
+      <workItem from="1565421538305" duration="106000" />
+      <workItem from="1566545795451" duration="345000" />
+      <workItem from="1574161980492" duration="3594000" />
+      <workItem from="1574174250887" duration="10000" />
+      <workItem from="1574995554376" duration="1061000" />
+      <workItem from="1577425229038" duration="5467000" />
+      <workItem from="1577498773441" duration="6103000" />
+      <workItem from="1577509363289" duration="32000" />
+      <workItem from="1578300534759" duration="7283000" />
+      <workItem from="1582021346659" duration="249000" />
+      <workItem from="1586614603614" duration="2032000" />
+      <workItem from="1590690359757" duration="1785000" />
+      <workItem from="1590728961678" duration="5922000" />
+      <workItem from="1590902969453" duration="5275000" />
+      <workItem from="1593611306891" duration="912000" />
+      <workItem from="1593656003266" duration="34000" />
+      <workItem from="1606807149189" duration="1479000" />
+      <workItem from="1607512104036" duration="4620000" />
+      <workItem from="1608082505090" duration="293000" />
+      <workItem from="1608219109817" duration="1711000" />
+      <workItem from="1608269802187" duration="154000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建shiro web工程">
+      <created>1522120432647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522120432647</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建shiro web工程">
+      <created>1522129923978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522129923978</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed">
+      <created>1533630348063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533630348063</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed">
+      <created>1533631349127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1533631349127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed">
+      <created>1533632489177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533632489177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed">
+      <created>1606808492887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606808492887</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Latch_together - 2018.09.08 at 14h 23m 10s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 23m 18s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 23m 22s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 23m 37s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 23m 50s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 25m 29s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 25m 52s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 25m 56s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 26m 00s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Latch_together - 2018.09.08 at 14h 26m 16s.xml">
+      <configuration name="Latch.together" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="创建shiro web工程" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1608220643701">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1608220643701" />
+    <state x="268" y="380" key="#xdebugger.evaluate" timestamp="1607519124216">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="268" y="380" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1607519124216" />
+    <state x="368" y="102" key="CommitChangelistDialog2" timestamp="1606808492630">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="368" y="102" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1606808492630" />
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1607519042202">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607519042202" />
+    <state width="287" height="333" key="Git.Branch.Popup" timestamp="1606807389488" />
+    <state width="287" height="333" key="Git.Branch.Popup/0.0.1680.1050/-1920.0.1920.1080" timestamp="1606807389488" />
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608220951430">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608220951429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608220951429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608220951430">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1607524948441">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948441" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1607524948439">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948439" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1607524948438">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948438" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1607524948440">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948440" />
+    <state x="416" y="74" key="new project wizard" timestamp="1608219321106">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="416" y="74" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1608219321106" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1608219554861">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608219554861" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/dyu/demo/DemoApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SE.dyu-yqn/src/main/java/com/dyu/dynamic_bind/Test.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
