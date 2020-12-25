@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/threadlocal/ThreadLocalDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,21 +83,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Path(</find>
-      <find>Proxy</find>
-      <find>NameChecker</find>
-      <find>condition</find>
-      <find>unlock</find>
-      <find>loadBeanDefinitions</find>
-      <find>process</find>
-      <find>processBeanDefinitionEle</find>
-      <find>parseBeandefinitionEle</find>
-      <find>getParentBeanFactory</find>
-      <find>refresh</find>
-      <find>refreshBeanFactory</find>
-    </findStrings>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -174,7 +164,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.ThreadLocalDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -223,13 +213,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.daemon.ServiceThread" />
-      <module name="dyu-thread" />
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.threadlocal.ThreadLocalDemo" />
+      <module name="dyu-netty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dyu.daemon.*" />
+          <option name="PATTERN" value="com.dyu.threadlocal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -647,9 +637,7 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="dyushiro:war" />
-        </option>
+        <option name="BuildArtifacts" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -671,7 +659,6 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ServiceThread" />
       <item itemvalue="Application.PipelineTransportDemo" />
       <item itemvalue="Application.WriteAndFlushDemo" />
       <item itemvalue="Application.ByteBufDemo" />
@@ -687,14 +674,15 @@
       <item itemvalue="Spring Boot.DyuActivitiApplication" />
       <item itemvalue="Spring Boot.MpApplication" />
       <item itemvalue="Tomcat Server.shiro" />
+      <item itemvalue="Application.ThreadLocalDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalDemo" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ByteBufDemo" />
         <item itemvalue="Application.WriteAndFlushDemo" />
         <item itemvalue="Application.PipelineTransportDemo" />
-        <item itemvalue="Application.ServiceThread" />
       </list>
     </recent_temporary>
   </component>
@@ -813,6 +801,10 @@
       <workItem from="1608082505090" duration="293000" />
       <workItem from="1608219109817" duration="1711000" />
       <workItem from="1608269802187" duration="154000" />
+      <workItem from="1608280591736" duration="216000" />
+      <workItem from="1608284643938" duration="5000" />
+      <workItem from="1608689052553" duration="24000" />
+      <workItem from="1608860267608" duration="4743000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -936,6 +928,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="328" y="106" key="#Project_Structure" timestamp="1608863211100">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1608863211100" />
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1608220643701">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -948,52 +944,64 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="368" y="102" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1606808492630" />
-    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1607519042202">
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1608862743847">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607519042202" />
+    <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1608862743847" />
     <state width="287" height="333" key="Git.Branch.Popup" timestamp="1606807389488" />
     <state width="287" height="333" key="Git.Branch.Popup/0.0.1680.1050/-1920.0.1920.1080" timestamp="1606807389488" />
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608220951430">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608863988534">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
-    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608220951429">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988534" />
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242414" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608863988532">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
-    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608220951429">
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988532" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242412" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608863988530">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951429" />
-    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608220951430">
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988530" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242411" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608863988533">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608220951430" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1607524948441">
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988533" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242413" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1608862836737">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948441" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1607524948439">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836737" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1608862836736">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948439" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1607524948438">
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836736" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1608862836736">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948438" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1607524948440">
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836736" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1608862836737">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607524948440" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836737" />
+    <state x="474" y="294" key="MultipleFileMergeDialog" timestamp="1608280649388">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="474" y="294" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1608280649388" />
+    <state width="518" height="587" key="SwitcherDM" timestamp="1608862400538">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="518" height="587" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1608862400538" />
     <state x="416" y="74" key="new project wizard" timestamp="1608219321106">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="416" y="74" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1608219321106" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1608219554861">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1608861667599">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608219554861" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608861667599" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
