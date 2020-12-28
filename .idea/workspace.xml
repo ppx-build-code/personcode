@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="811e464a-19ef-4f64-972c-def7b86c2930" name="Default" comment="fixed">
-      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/threadlocal/ThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SE.dyu-netty/src/main/java/com/dyu/timer/TimerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE.dyu-netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SE.dyu-netty/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +162,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadLocalDemo">
+  <component name="RunManager" selected="Application.TimerDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -199,20 +197,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PipelineTransportDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dyu.pipeline.PipelineTransportDemo" />
-      <module name="dyu-netty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dyu.pipeline.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dyu.threadlocal.ThreadLocalDemo" />
       <module name="dyu-netty" />
@@ -220,6 +204,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dyu.threadlocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dyu.timer.TimerDemo" />
+      <module name="dyu-netty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dyu.timer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -659,10 +657,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.PipelineTransportDemo" />
       <item itemvalue="Application.WriteAndFlushDemo" />
       <item itemvalue="Application.ByteBufDemo" />
       <item itemvalue="Application.App" />
+      <item itemvalue="Application.ThreadLocalDemo" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.CmsApplication" />
       <item itemvalue="Spring Boot.DyuWebfluxApplication" />
@@ -674,15 +672,15 @@
       <item itemvalue="Spring Boot.DyuActivitiApplication" />
       <item itemvalue="Spring Boot.MpApplication" />
       <item itemvalue="Tomcat Server.shiro" />
-      <item itemvalue="Application.ThreadLocalDemo" />
+      <item itemvalue="Application.TimerDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimerDemo" />
         <item itemvalue="Application.ThreadLocalDemo" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ByteBufDemo" />
         <item itemvalue="Application.WriteAndFlushDemo" />
-        <item itemvalue="Application.PipelineTransportDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +802,8 @@
       <workItem from="1608280591736" duration="216000" />
       <workItem from="1608284643938" duration="5000" />
       <workItem from="1608689052553" duration="24000" />
-      <workItem from="1608860267608" duration="4743000" />
+      <workItem from="1608860267608" duration="4895000" />
+      <workItem from="1609119339676" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="创建shiro web工程">
       <created>1522120432647</created>
@@ -950,42 +949,42 @@
     <state width="436" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1608862743847" />
     <state width="287" height="333" key="Git.Branch.Popup" timestamp="1606807389488" />
     <state width="287" height="333" key="Git.Branch.Popup/0.0.1680.1050/-1920.0.1920.1080" timestamp="1606807389488" />
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1608863988534">
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom" timestamp="1609120117771">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988534" />
+    <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1609120117771" />
     <state width="1638" height="355" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242414" />
-    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1608863988532">
+    <state width="1638" height="355" key="GridCell.Tab.0.center" timestamp="1609120117770">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988532" />
+    <state width="1638" height="355" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1609120117770" />
     <state width="1638" height="355" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242412" />
-    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1608863988530">
+    <state width="1638" height="355" key="GridCell.Tab.0.left" timestamp="1609120117770">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988530" />
+    <state width="1638" height="355" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1609120117770" />
     <state width="1638" height="355" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242411" />
-    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1608863988533">
+    <state width="1638" height="355" key="GridCell.Tab.0.right" timestamp="1609120117771">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608863988533" />
+    <state width="1638" height="355" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1609120117771" />
     <state width="1638" height="355" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1608863242413" />
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1608862836737">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1608865972823">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836737" />
-    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1608862836736">
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608865972823" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1608865972820">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836736" />
-    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1608862836736">
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608865972820" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1608865972819">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836736" />
-    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1608862836737">
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608865972819" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1608865972822">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608862836737" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608865972822" />
     <state x="474" y="294" key="MultipleFileMergeDialog" timestamp="1608280649388">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
