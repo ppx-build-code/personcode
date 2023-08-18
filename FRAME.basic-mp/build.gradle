@@ -20,7 +20,6 @@ buildscript {
 plugins {
     id 'idea'
     id 'java'
-    id 'org.springframework.boot'
 }
 
 

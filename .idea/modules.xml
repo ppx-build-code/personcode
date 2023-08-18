@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SE.dyu-disruptor/SE.dyu-disruptor.iml" filepath="$PROJECT_DIR$/SE.dyu-disruptor/SE.dyu-disruptor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SE.dyu-yqn.iml" filepath="$PROJECT_DIR$/.idea/modules/SE.dyu-yqn.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/MICRO.api-gateway/api-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic.mp.iml" filepath="$PROJECT_DIR$/.idea/modules/basic.mp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic.mp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/basic.mp.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/basic.mp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/basic.mp.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" filepath="$PROJECT_DIR$/MICRO.cms-client/cms-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dyu.yqn.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dyu.yqn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.frame.dyu.basic.mp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.frame.dyu.basic.mp.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.frame.dyu.basic.mp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.frame.dyu.basic.mp.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/INFRA.config-server/config-server.iml" filepath="$PROJECT_DIR$/INFRA.config-server/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ACT.dyu-activiti/dyu-activiti.iml" filepath="$PROJECT_DIR$/ACT.dyu-activiti/dyu-activiti.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" filepath="$PROJECT_DIR$/MICRO.dyu-admin/dyu-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" filepath="$PROJECT_DIR$/MICRO.dyu-cms/dyu-cms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" filepath="$PROJECT_DIR$/MICRO.dyu-config/dyu-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" filepath="$PROJECT_DIR$/SE.dyu-lambda/dyu-lambda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" filepath="$PROJECT_DIR$/SE.dyu-netty/dyu-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-plugin/dyu-plugin.iml" filepath="$PROJECT_DIR$/SE.dyu-plugin/dyu-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SE.dyu-thread/dyu-thread.iml" filepath="$PROJECT_DIR$/SE.dyu-thread/dyu-thread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" filepath="$PROJECT_DIR$/SE.dyu-web/dyu-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" filepath="$PROJECT_DIR$/SE.dyu-webflux/dyu-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SE.dyu-frame/frame.iml" filepath="$PROJECT_DIR$/SE.dyu-frame/frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/personcode.iml" filepath="$PROJECT_DIR$/.idea/personcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yqn.test.iml" filepath="$PROJECT_DIR$/.idea/modules/yqn.test.iml" />
     </modules>
   </component>
 </project>

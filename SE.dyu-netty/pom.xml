@@ -7,6 +7,18 @@
     <groupId>com.dyu</groupId>
     <artifactId>netty</artifactId>
     <version>1.0.0</version>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     <name>dyu-netty</name>
 
 
@@ -21,6 +33,25 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.75</version>
+        </dependency>
+        <dependency>
+            <groupId>net.mamoe</groupId>
+            <artifactId>mirai-core-jvm</artifactId>
+            <scope>system</scope>
+            <version>2.0-M2-2</version>
+            <systemPath>${basedir}/src/main/resources/libs/mirai-core-jvm-2.0-M2-2.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.mamoe</groupId>
+            <artifactId>mirai-core-api-jvm</artifactId>
+            <scope>system</scope>
+            <version>2.0-M2-2</version>
+            <systemPath>${basedir}/src/main/resources/libs/mirai-core-api-jvm-2.0-M2-2.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>net.mamoe</groupId>
+            <artifactId>mirai-core-utils-jvm</artifactId>
+            <version>2.0-M2-2</version>
         </dependency>
     </dependencies>
 </project>

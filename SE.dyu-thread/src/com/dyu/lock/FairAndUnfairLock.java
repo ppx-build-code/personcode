@@ -69,12 +69,21 @@ public class FairAndUnfairLock {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        FairAndUnfairLock lock = new FairAndUnfairLock();
-        lock.fair();
+        //FairAndUnfairLock lock = new FairAndUnfairLock();
+        //lock.fair();
+        ////
+        ////Thread.sleep(10000);
         //
-        //Thread.sleep(10000);
-
-        System.out.println();
+        //System.out.println();
         //lock.unfair();
+        int a = 5;// 0101
+        int b = 3;// 0011
+        int c = 5;
+        int d = 3;
+        int e = 5;
+        int f = 3;
+        System.out.println(a |= b); // 0111
+        System.out.println(c &= d); // 0001
+        System.out.println(e ^= f); // 0110
     }
 }
