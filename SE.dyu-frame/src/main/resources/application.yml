@@ -2,23 +2,36 @@ server:
   port: 8888
 spring:
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.8.230:3306/links86
-    username: root
-  jpa:
-    database: mysql
-    show-sql: true
-    hibernate:
-      ddl-auto: update
-      naming:
-        implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQLDialect
-  redis:
-    host: 192.168.8.230
-  data:
-    elasticsearch:
-      cluster-nodes: 192.168.8.230
+    dynamic:
+      primary: master
+      datasource:
+        master:
+          driver-class-name: com.mysql.jdbc.Driver
+          url: jdbc:mysql://127.0.0.1:3306/hello_world
+          username: root
+          password: 123456
+        slave:
+          driver-class-name: com.mysql.jdbc.Driver
+          url: jdbc:mysql://127.0.0.1:3306/hello_world
+          username: root
+          password: 123456
+      assign-tm: true
+
+#  jpa:
+#    database: mysql
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      naming:
+#        implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQLDialect
+#  redis:
+#    host: 192.168.8.230
+#  data:
+#    elasticsearch:
+#      cluster-nodes: 192.168.8.230
+
 logging:
   level: debug

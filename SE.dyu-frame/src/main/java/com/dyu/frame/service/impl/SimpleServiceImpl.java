@@ -1,17 +1,21 @@
 package com.dyu.frame.service.impl;
 
+import com.dyu.frame.domain.entity.AppleDO;
+import com.dyu.frame.mapper.AppleMapper;
 import com.dyu.frame.service.SimpleService;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanClassLoaderAware;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.BeanFactoryAware;
 import org.springframework.beans.factory.BeanNameAware;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.*;
 import org.springframework.context.annotation.ImportAware;
 import org.springframework.core.env.Environment;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 /**
  * @author dyu 2019.02.26
@@ -20,6 +24,10 @@ import org.springframework.stereotype.Service;
 public class SimpleServiceImpl implements SimpleService, ApplicationContextAware,
         ApplicationEventPublisherAware, BeanClassLoaderAware, BeanFactoryAware,
         BeanNameAware, EnvironmentAware, ImportAware, ResourceLoaderAware {
+
+
+    @Autowired private AppleMapper appleMapper;
+
     @Override
     public void setBeanClassLoader(ClassLoader classLoader) {
         System.out.println("exec bean classloader, name is " + classLoader.getClass().getName());
@@ -58,5 +66,14 @@ public class SimpleServiceImpl implements SimpleService, ApplicationContextAware
     @Override
     public void setImportMetadata(AnnotationMetadata annotationMetadata) {
         System.out.println("annotation meta data is " + annotationMetadata.getClassName());
+    }
+
+    @Transactional
+    @Override
+    public void testTm() {
+        AppleDO apple = new AppleDO();
+        apple.setId(123L);
+        apple.setName("红富士");
+        appleMapper.insert(apple);
     }
 }
